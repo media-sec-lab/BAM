@@ -1,0 +1,10 @@
+
+ssl_ckpt: /pubdata/zhongjiafeng/CKP/ssl/wav2vec/xlsr2_300m.pt
+ssl_name: wav2vec2_local
+ssl_feat_dim: 1024
+pool_head_num: 1
+gap_layer_num: 2
+local_channel_dim: 32
+embed_dim: 256
+gap_head_num: 1
+

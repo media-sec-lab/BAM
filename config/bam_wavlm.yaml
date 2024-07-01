@@ -1,0 +1,10 @@
+
+ssl_ckpt: /pubdata/zhongjiafeng/CKP/ssl/s3prl/wavlm_large.pt
+ssl_name: wavlm_local
+ssl_feat_dim: 1024
+pool_head_num: 1
+local_channel_dim: 32
+embed_dim: 1024
+gap_head_num: 1
+gap_layer_num: 2
+
