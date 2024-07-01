@@ -9,7 +9,7 @@ This is the pytorch implementation of our work
 
 # Enviroment
 
-Our training code is base on [Pytorch-lightning](https://lightning.ai/docs/pytorch/stable/). we need install following dependency module firstly.
+Our training code is base on [Pytorch-lightning](https://lightning.ai/docs/pytorch/stable/). we need install following dependency firstly.
 
 ```python
 conda create -n bam python=3.8
