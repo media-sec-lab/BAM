@@ -43,7 +43,7 @@ python train.py --test_only --checkpoint ./checkpoint/model.ckpt
 Please feel free to contact us if there is anything we can do to support your work.
 
 # Citation
-If you use this code, result, or MM6 dataset in your paper, please cite our work as:
+If you use this code and result in your paper, please cite our work as:
 ```
 @article{gong2023zmm,
   title={Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism},
