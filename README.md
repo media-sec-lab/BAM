@@ -37,7 +37,7 @@ python train.py
 ## Evaluation
 we also provide checkpoint in ./checkpoint/model.ckpt. Please download the modl checkpoint file from [Google driver](https://drive.google.com/file/d/1eL3Ca27hEruI20lkoqkQEnZlb2GzTyHT/view?usp=sharing). The evaluation may take some times.
 ```
-python train.py --test_only --checkpoint ./checkpoint/model.ckpt
+python train.py --test_only --checkpoint ./bam_checkpoint/model.ckpt
 ```
 
 Please feel free to contact us if there is anything we can do to support your work.
