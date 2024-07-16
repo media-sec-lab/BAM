@@ -1,10 +1,10 @@
 
 # BAM
 
-This is the pytorch implementation of our work 
-
-[Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism]()
 [![DOI](https://zenodo.org/badge/822386562.svg)](https://zenodo.org/doi/10.5281/zenodo.12747416)
+
+This is the pytorch implementation of our work [Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism]().
+
 
 ![Introducation of BAM](./res/introduction.png)
 
