@@ -46,10 +46,14 @@ Please feel free to contact us if there is anything we can do to support your wo
 # Citation
 If you use this code and result in your paper, please cite our work as:
 ```
-@article{zhongbam2024,
-  title={Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism},
-  author={Jiafeng, Zhong and Bin, Li and Jiangyan, Yi},
-  year={2024}
+@article{zhong2024enhancingpartiallyspoofedaudio,
+      title={Enhancing Partially Spoofed Audio Localization with Boundary-aware Attention Mechanism}, 
+      author={Jiafeng Zhong and Bin Li and Jiangyan Yi},
+      year={2024},
+      eprint={2407.21611},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2407.21611}, 
 }
 ```
 
