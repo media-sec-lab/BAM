@@ -25,7 +25,7 @@ pip install tensorboard
 # Usage
 ## Data preparation
 Change the partialspoof_path in [ps_preprocess.py](/dataset/ps_preprocess.py) to your PartialSpoof dataset path and run this python file.
-The ps_preprocess.py is to extract boundary label for segment-level label. 
+The ps_preprocess.py is to extract boundary label from segment-level label. 
 ```python
 python dataset/ps_preprocess.py
 ```
