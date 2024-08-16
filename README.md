@@ -57,7 +57,7 @@ python train.py --exp_name bam_xlsr --train_root ./data/raw/train --dev_root ./d
 
 ## Evaluation
 we also provide checkpoint in `./checkpoint/model.ckpt`. Please download the modl checkpoint file from [Google driver](https://drive.google.com/file/d/1eL3Ca27hEruI20lkoqkQEnZlb2GzTyHT/view?usp=sharing). 
-The evaluation process may take some times and will need ~4G gpu memory.
+The evaluation process might take some time and will require approximately 4GB of GPU memory.
 ```
 python train.py --test_only --checkpoint ./bam_checkpoint/model.ckpt --eval_root ./data/raw/eval
 ```
