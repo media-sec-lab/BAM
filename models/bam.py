@@ -34,7 +34,7 @@ class BAM(nn.Module):
             for _ in range(config.gap_layer_num)])
         
         self.boundary_proj = nn.Linear(in_features=2*config.embed_dim, out_features=config.embed_dim)
-        self.out_layer = nn.Linear(in_features=3*config.embed_dim,out_features=2)
+        self.out_layer = nn.Linear(in_features=2*config.embed_dim,out_features=2)
 
 
     def forward(self, x, ret_emb=False):
